@@ -1,0 +1,16 @@
+crud\SaveServlet.class
+crud\ViewServlet.class
+br\com\douglasmendes\javawebmaven\console\AloMundo.class
+br\com\douglasmendes\projetojavawebmaven\App.class
+crud\Emp.class
+webservicerest\ApplicationRest.class
+crud\Retorno.class
+web\ExemploServlet.class
+crud\EmpDao.class
+processar\Executada.class
+webservicerest\APPWebServiceRest.class
+br\com\douglasmendes\javawebmaven\App.class
+corrigehtml\CorrigeHTMLOBSChamado.class
+crud\DeleteServlet.class
+crud\EditServlet2.class
+crud\EditServlet.class
