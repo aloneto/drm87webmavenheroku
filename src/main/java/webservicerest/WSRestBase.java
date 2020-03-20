@@ -1,4 +1,4 @@
-package webservicerest;
+package  main.java.webservicerest;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;

@@ -1,4 +1,4 @@
-package webservicerest;
+package main.java.webservicerest;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
@@ -29,7 +29,7 @@ public class CartaoFidelidade {
 
 	@GET
 	public String validarAcessoWS() {
-		return "Web Service RestFul acessado com sucesso. Parabéns.";
+		return "Web Service RestFul acessado com sucesso. Parabens.";
 	}
 
 	@GET
