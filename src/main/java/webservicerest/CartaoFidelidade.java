@@ -8,8 +8,9 @@ import javax.ws.rs.core.MediaType;
 // https://douglasmende-master-4ru7yjizur.herokuapp.com/
 //https://github.com/heroku/java-getting-started 
 
-//http://localhost:8080/javawebmaven/rest/api/registrarItemCartaoFidelidade/123
-
+//http://localhost:8080/herokuJBoss/api/cartaofidelidade
+// https://cliwarjavamaven.herokuapp.com/
+//https://cliwarjavamaven.herokuapp.com/cliwarjavamaven/api/cartaofidelidade
 /*
 Antes de iniciar precisa criar sua conta no gitHub:
  (https://guides.github.com/activities/hello-world/).
@@ -22,7 +23,7 @@ Projeto para o Clone
 https://github.com/douglasrm87/
  */
 //@Path("/api")
-
+// Este
 //https://restfulapi.net/create-rest-apis-with-jax-rs-2-0/
 @Path("/cartaofidelidade")
 public class CartaoFidelidade {
