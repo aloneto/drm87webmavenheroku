@@ -23,7 +23,7 @@ Projeto para o Clone
 https://github.com/douglasrm87/
  */
 //@Path("/api")
-// Este
+// Este para os alunos
 //https://restfulapi.net/create-rest-apis-with-jax-rs-2-0/
 @Path("/cartaofidelidade")
 public class CartaoFidelidade {
